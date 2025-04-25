@@ -1,8 +1,4 @@
-# 🌱 Irrigation System Web App
 
-A modern web application that displays irrigation schedules in a neat grid format. Users can view, filter, and navigate irrigation data with an intuitive UI. Built using **React.js** and styled with **Tailwind CSS**, this project helps manage irrigation cycles efficiently.
-
----
 # 🌱 Irrigation System Web App
 
 A modern web application that displays irrigation schedules in a neat grid format. Users can view, filter, and navigate irrigation data with an intuitive UI. Built using **React.js** and styled with **Tailwind CSS**, this project helps manage irrigation cycles efficiently.
